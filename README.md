@@ -1,2 +1,2 @@
-#Battle of the Neighborhoods Repository
+Battle of the Neighborhoods Repository
 
