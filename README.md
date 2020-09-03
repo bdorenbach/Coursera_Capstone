@@ -1,2 +1,2 @@
-# rep1
-This is my first repository using Github
+#Battle of the Neighborhoods Repository
+
